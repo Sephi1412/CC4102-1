@@ -9,7 +9,7 @@
 
 ## **Caracteristicas básicas**
 ---
-> - Se conforma por un conjunto de vértices $V$ y un conjunto de arcos/aristas $E$, donde el número de vértices se suele representar por convención con una $n$, mientras que la cantiidad de arcos como una $m$
+> - Se conforma por un conjunto de vértices <img src="https://render.githubusercontent.com/render/math?math=V"> y un conjunto de arcos/aristas <img src="https://render.githubusercontent.com/render/math?math=E">, donde el número de vértices se suele representar por convención con una $n$, mientras que la cantiidad de arcos como una $m$
 > - Los arcos pueden tener sentido o no. Dependiendo de ello se categorizan como *dirigidos* o *no dirigidos* respectivamente.
 
 ## **Representaciones de grafos en memoria**
