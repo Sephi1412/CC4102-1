@@ -44,7 +44,7 @@
 > - Búsqueda en profundidad ó Depth-First Search(DFS): Se aleja lo más posible del nodo inicial sin repetir ningún nodo, y luego se devuelve al inicio e intenta tomar otra ruta
 > - Búsqueda en amplitud ó Breadth-first search(BFS): Se visita a todos los nodos vecinos y luego a los vecinos de los vecinos 
 > 
->![alt text](./../img/bfs-dfs.gif "Diseño Inicial")
+![alt text](https://github.com/Sephi1412/CC4102-1/blob/main/Img/bfs-dfs.gif)
 
 
 ## **Arbol cobertor mínimo (Minimu Spanning Tree):**
