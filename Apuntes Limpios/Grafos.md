@@ -60,7 +60,7 @@
 > - El **objetivo principal** de este algoritmo es encontrar la ruta menos costosa para conectar el grafo entero
 > - Inicialmente, solo tenemos los vértices, ninguna arista. Nos ubicamos en un vertice $x$ del grafo, que tenga acceso a la arista de menor coste posible y la agregamos. Seguimos agregando todas las aristas de una en una, dándole prioridad a aquellas que tienen menos peso. En caso de que se genere un ciclo por agregar una arista, esta se descarga y pasamos a la siguiente arista que tenga el menor peso posible.
 >
->![alt text](./../img/kruskal.gif "Diseño Inicial")
+>![alt text](https://github.com/Sephi1412/CC4102-1/blob/main/Img/kruskal.gif)
 > - En sintesis, este algoritmo depende de dos funciones:
 >   - La función que une vértices
 >   - La función que determina cual es la arista de menor peso que se encuentra disponsible en un momento determinado de la ejecución y que al ser utilizada, no genera un ciclo en el grafo.
@@ -73,7 +73,7 @@
 >   - La ruta que se tome debe ser la que tenga el menor peso posible
 > En caso que ninguna de las condiciones deseadas se cumpla, nos devolvemos al último vértice que tenga una arista que cumpla las condiciones previamente mencionadas.
 > 
-> >![alt text](./../img/prim.gif "Diseño Inicial")
+> >![alt text](https://github.com/Sephi1412/CC4102-1/blob/main/Img/prim.gif)
 >
 > De modo que los pilares principales de la aplicación son:
 >   - Tener consciencia de cuales son los vecinos del nodo actual
